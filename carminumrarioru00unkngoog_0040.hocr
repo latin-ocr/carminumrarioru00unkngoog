@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carminumrarioru00unkngoog_0040.png"; bbox 0 0 3060 4964; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 2088 1146 2184">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 2088 1146 2184">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 2088 1146 2184; baseline 0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 216 2088 655 2178; x_wconf 69' lang='lat' dir='ltr'><strong>CHRYSTEKIRK</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 677 2091 763 2178; x_wconf 88' lang='grc' dir='ltr'><strong>ΟΝ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 781 2091 902 2180; x_wconf 82' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 922 2095 1146 2184; x_wconf 81' lang='lat' dir='ltr'><strong>GREEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 507 2482 865 2637">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 507 2482 865 2637">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 2482 865 2637; baseline -0.003 -57"><span class='ocrx_word' id='word_1_5' title='bbox 507 2488 654 2637; x_wconf 63' lang='lat' dir='ltr'><strong>etanta</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 672 2482 865 2595; x_wconf 51' lang='lat' dir='ltr'><strong>mamm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 637 3023 723 3086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 637 3023 723 3086">
+     <span class='ocr_line' id='line_1_3' title="bbox 637 3023 723 3086; baseline 0.023 -11"><span class='ocrx_word' id='word_1_7' title='bbox 637 3023 723 3086; x_wconf 82' lang='lat'>1715.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1534 4964">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1534 4964">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1534 4964; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1534 4964; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
